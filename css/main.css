@@ -14,7 +14,7 @@ html {
 
 .card {
   overflow: hidden;
-  border:1px solid #ccc;
+  border: 1px solid #ccc;
   border-radius: 0 6px 6px;
 }
 
@@ -28,13 +28,13 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  width:100%;
+  width: 100%;
 }
 
 .card-label {
   padding: .3rem 1rem .3rem calc(1rem - 4px);
   border-left: 4px solid green;
-  background-color: rgba(255,255,255, .6);
+  background-color: rgba(255, 255, 255, .6);
   position: absolute;
   left: 0;
   top: 0;
